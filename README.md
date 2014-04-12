@@ -9,5 +9,5 @@ These nightly builds are made automatically from "Studio-42/elFinder:2.1, Studio
 
 * [elFinder 2.x](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2.x.zip)
 * [elFinder 2.1](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2.1.zip)
-* [elFinder 2.x_n](EOL)
+* elFinder 2.x_n(EOL)
 * [elFinder 2.1_n](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2.1_n.zip)
