@@ -7,10 +7,10 @@ These nightly builds are made automatically from "Studio-42/elFinder:2.1, Studio
 
 ## Composer Packagist
 * [nao-pon/elfinder-nightly](https://packagist.org/packages/nao-pon/elfinder-nightly)
-    * elFinder 2.x: **2.x-dev**
-    * elFinder 2.1: **2.1.x-dev**
+    * elFinder 2.x: **"nao-pon/elfinder-nightly": "2.*@dev"**
+    * elFinder 2.1: **"nao-pon/elfinder-nightly": "2.1.*@dev"**
     * elFinder 2.x_n: **dev-2.x_n** (EOL upstream sync only)
-    * elFinder 2.1_n: **dev-2.1_n**
+    * elFinder 2.1_n: **"nao-pon/elfinder-nightly": "dev-2.1_n"**
 
 
 ## Download latest packages
