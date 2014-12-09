@@ -19,3 +19,9 @@ These nightly builds are made automatically from "Studio-42/elFinder:2.1, Studio
 * [elFinder 2.1](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2.1.zip)
 * elFinder 2.x_n (EOL upstream sync only)
 * [elFinder 2.1_n](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2.1_n.zip)
+
+## Demo sites
+* [elFinder 2.x](http://hypweb.net/elFinder-nightly/demo/2.x/)
+* [elFinder 2.1](http://hypweb.net/elFinder-nightly/demo/2.1/)
+* [elFinder 2.x_n](http://hypweb.net/elFinder-nightly/demo/2.x_n/)
+* [elFinder 2.1_n](http://hypweb.net/elFinder-nightly/demo/2.1_n/)
